@@ -1,4 +1,4 @@
-# [Memo Title]
+# [Memo Title].
 
 **Created by:** [name]  
 **Updated by:** [name]  
